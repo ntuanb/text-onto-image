@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'italianno';
+    src: url('../fonts/Italianno-Regular-OTF.otf');
+}
+
+h1 { font-family: 'italianno'; font-size: 60px; line-height: 40px; }
+img { width: 100%; }
+ul { padding-left: 15px;}
